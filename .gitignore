@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.log
+*.pid
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+.pnpm-debug.log
+pnpm-lock.yaml
+*.tsbuildinfo
